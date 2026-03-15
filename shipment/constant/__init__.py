@@ -49,7 +49,7 @@ MODEL_SAVE_FORMAT = ".pkl"
 
 
 
-BUCKET_NAME = "shipment-model-io-files-pwksills"
+BUCKET_NAME = "shipment-model-io-files-amit"
 S3_MODEL_NAME = "shipping_price_model.pkl"
 
 

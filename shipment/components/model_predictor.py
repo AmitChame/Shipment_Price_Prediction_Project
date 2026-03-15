@@ -4,7 +4,7 @@ from typing import Dict
 from pandas import DataFrame
 import pandas as pd
 from shipment.constant import *
-from shipment.configuration.s3_operations import S3Operation
+from shipment.configuration.s3_operation import S3Operation
 from shipment.exception import shippingException
 
 

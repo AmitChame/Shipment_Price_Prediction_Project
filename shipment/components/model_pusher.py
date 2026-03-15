@@ -1,5 +1,5 @@
 import sys
-from shipment.configuration.s3_operations import S3Operation
+from shipment.configuration.s3_operation import S3Operation
 from shipment.entity.artifacts_entity import (
     DataTransformationArtifacts,
     ModelPusherArtifacts,

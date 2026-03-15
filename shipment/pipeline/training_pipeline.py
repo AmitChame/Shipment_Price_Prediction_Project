@@ -25,7 +25,7 @@ from shipment.components.data_validation import DataValidation
 from shipment.components.data_transformation import DataTransformation
 from shipment.components.model_trainer import ModelTrainer
 from shipment.components.model_evaluation import ModelEvaluation
-from shipment.configuration.s3_operations import S3Operation
+from shipment.configuration.s3_operation import S3Operation
 from shipment.components.model_pusher import ModelPusher
 
 

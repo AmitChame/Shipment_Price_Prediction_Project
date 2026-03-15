@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from from_root import from_root
 import os
-from shipment.configuration.s3_operations import S3Operation
+from shipment.configuration.s3_operation import S3Operation
 from shipment.utils.main_utils import MainUtils
 from shipment.constant import *
 
